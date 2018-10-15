@@ -95,7 +95,7 @@ class InfoSection extends Component {
                         alt='A very fancy cat'
                     />
                 </div>
-                <div className='tagline'>(he's kind of a big deal)</div>
+                <div className='tagline'>(he is kind of a big deal)</div>
             </div>
         )
     }
@@ -119,7 +119,7 @@ class WetFoodAmount extends Component {
         return (
             <div className='WetFoodAmount'>
                 <input
-                    type='text'
+                    type='number'
                     value={this.props.gWetFood}
                     onChange={this.props.onWetFoodAmountChange}
                 />

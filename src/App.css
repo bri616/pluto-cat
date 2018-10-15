@@ -18,11 +18,11 @@
 }
 
 .InfoSection h1 {
-    font-size: 30pt;
+    font-size: 25pt;
 }
 
 .InfoSection .title-image img {
-    height: 240px;
+    height: 200px;
 }
 
 .InfoSection .tagline {
@@ -46,6 +46,7 @@
     border-radius: 5px;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 .WetFoodAmount input {
@@ -53,4 +54,5 @@
     font-size: 14pt;
     border-style: none;
     border-bottom: 1px solid grey;
+    border-radius: 0;
 }
