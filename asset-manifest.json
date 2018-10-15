@@ -1,7 +1,7 @@
 {
   "main.css": "/pluto-cat/static/css/main.8d03296c.chunk.css",
-  "main.js": "/pluto-cat/static/js/main.a96fb784.chunk.js",
-  "main.js.map": "/pluto-cat/static/js/main.a96fb784.chunk.js.map",
+  "main.js": "/pluto-cat/static/js/main.2458cf7f.chunk.js",
+  "main.js.map": "/pluto-cat/static/js/main.2458cf7f.chunk.js.map",
   "static/js/1.b1c2bd6c.chunk.js": "/pluto-cat/static/js/1.b1c2bd6c.chunk.js",
   "static/js/1.b1c2bd6c.chunk.js.map": "/pluto-cat/static/js/1.b1c2bd6c.chunk.js.map",
   "runtime~main.js": "/pluto-cat/static/js/runtime~main.c233ecc7.js",
@@ -9,6 +9,6 @@
   "static/media/gentlemancat.png": "/pluto-cat/static/media/gentlemancat.70e613e0.png",
   "static/css/main.8d03296c.chunk.css.map": "/pluto-cat/static/css/main.8d03296c.chunk.css.map",
   "index.html": "/pluto-cat/index.html",
-  "precache-manifest.9f8bd38a5b8ba1c29ea0dccfac4d0128.js": "/pluto-cat/precache-manifest.9f8bd38a5b8ba1c29ea0dccfac4d0128.js",
+  "precache-manifest.45c24c6afae5440a57d0ec0e38e11507.js": "/pluto-cat/precache-manifest.45c24c6afae5440a57d0ec0e38e11507.js",
   "service-worker.js": "/pluto-cat/service-worker.js"
 }
