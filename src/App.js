@@ -13,7 +13,7 @@ class App extends Component {
             loading: true,
             wetFoodOptions: [],
             kcalPerKgWetFood: 0,
-            gWetFood: 0,
+            gWetFood: '',
             kcalPerFeeding: 123,
             kcalPerKgDryFood: 3790,
         }
