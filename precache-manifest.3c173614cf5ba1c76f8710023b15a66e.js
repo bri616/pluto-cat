@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/pluto-cat/static/css/main.01d0d044.chunk.css"
   },
   {
-    "revision": "059d9901f432df4f02a82fc6129ad168",
+    "revision": "dc86c7c756e8f4a83a775e38c3f40681",
     "url": "/pluto-cat/index.html"
   }
 ];
