@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/pluto-cat/precache-manifest.d858eaf5bf08ea9646da26f774ee1d5f.js"
+  "/pluto-cat/precache-manifest.0195bf68f0883c0466c585fb743e7604.js"
 );
 
 workbox.clientsClaim();

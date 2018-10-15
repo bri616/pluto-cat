@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/pluto-cat/static/js/runtime~main.c233ecc7.js"
   },
   {
-    "revision": "76704fda3a853923aaa8",
-    "url": "/pluto-cat/static/js/main.76704fda.chunk.js"
+    "revision": "b98fec2058e64d89c695",
+    "url": "/pluto-cat/static/js/main.b98fec20.chunk.js"
   },
   {
     "revision": "b1c2bd6cff28079af261",
     "url": "/pluto-cat/static/js/1.b1c2bd6c.chunk.js"
   },
   {
-    "revision": "76704fda3a853923aaa8",
-    "url": "/pluto-cat/static/css/main.b2660f1a.chunk.css"
+    "revision": "b98fec2058e64d89c695",
+    "url": "/pluto-cat/static/css/main.8d03296c.chunk.css"
   },
   {
-    "revision": "68e3ccf4c73c759bd1c0c3c4c877c965",
+    "revision": "00c793dea0fb03ee416d7030a607119f",
     "url": "/pluto-cat/index.html"
   }
 ];
