@@ -14,7 +14,7 @@ class App extends Component {
             wetFoodOptions: [],
             kcalPerKgWetFood: 0,
             gWetFood: '',
-            kcalPerFeeding: 118,
+            kcalPerFeeding: 110,
             kcalPerKgDryFood: 3790,
         }
         this.onWetFoodChange = this.onWetFoodChange.bind(this);
