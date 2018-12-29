@@ -11,10 +11,10 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
+importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/pluto-cat/precache-manifest.1f2b83e7f5d477f7a4b7d1ba0194f088.js"
+  "/pluto-cat/precache-manifest.b1b0063c4455b471f5161476be71a19c.js"
 );
 
 workbox.clientsClaim();
